@@ -1,0 +1,29 @@
+# Ignore Android Studio project files
+.idea/
+.gradle/
+local.properties
+*.iml
+
+# Ignore build output directories
+/build/
+*/build/
+
+# Ignore Gradle files
+/captures
+/.gradle/
+/captures/
+
+# Ignore APK files
+*.apk
+*.ap_
+
+# Ignore IntelliJ IDEA project files
+*.iws
+*.iml
+*.ipr
+
+# Ignore MacOS system files
+.DS_Store
+
+# Ignore Windows system files
+Thumbs.db
